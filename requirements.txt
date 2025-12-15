@@ -1,0 +1,6 @@
+pandas
+numpy
+librosa
+xgboost
+tqdm
+openai-whisper
